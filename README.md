@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Łukasz Osial</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate developer from Poland</h3>
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **lukasz.osial@gmail.com**
 
